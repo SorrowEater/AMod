@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "amod",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "AMod",
+  "description": "A Fabric Mod, made with Java, made by SorrowEater. My thanks go to Java, because I wrote the mod in Java, and Jacksepticeye, for always being the only cure for sadness.",
   "authors": [
-    "Me!"
+    "SorrowEater"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://SorrowEater.github.io/AMod/",
+    "sources": "https://github.com/SorrowEater/AMod/"
   },
 
   "license": "CC0-1.0",
@@ -23,7 +23,7 @@
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "amod.mixins.json"
   ],
 
   "depends": {
