@@ -1,8 +1,7 @@
 # AMod
 
-This Minecraft mod is coded using Fabric
-and Java, and it made use of the Fabric Example Mod
-(see https://GitHub.com/FabricMC/fabric-example-mod).
+This Minecraft mod is coded using Fabric and Java, and it made use of the Fabric Example Mod (see https://GitHub.com/FabricMC/fabric-
+example-mod).
 
 ## What does this mod do?
 
